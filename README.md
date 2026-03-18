@@ -16,14 +16,12 @@ Class-weighted loss with label smoothing for class imbalance
 Use of Test-Time Augmentation as an ensemble method
 Tableau dashboard creation for EDA of photometric features and redshift distributions
 
-```
 | Path | Description |
 |---|---|
 | Star.ipynb | Main notebook: RGCN + Residual MLP pipeline |
 | star_classification.csv | SDSS dataset (~100k observations) |
 | Star_Model.pth | Saved model weights |
 | README.md | Project documentation |
-```
 
 Dataset
 Source: Sloan Digital Sky Survey (SDSS) — star_classification.csv
